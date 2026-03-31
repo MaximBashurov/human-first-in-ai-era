@@ -1,0 +1,14 @@
+/* Main content: justified */
+.md-typeset {
+  font-size: 14px;
+  text-align: justify;
+}
+
+.md-content__inner .md-typeset a.glightbox img {
+  cursor: zoom-in;
+}
+
+/* Hide H1 only on the homepage (docs/index.md) */
+.md-content__inner h1#human-first-in-ai-era {
+  display: none;
+}
