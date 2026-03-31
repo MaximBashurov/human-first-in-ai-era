@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Zensical Abilities
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).

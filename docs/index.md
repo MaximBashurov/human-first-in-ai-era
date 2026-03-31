@@ -13,7 +13,7 @@ hide:
 
     ---
 
-    Intro to [**Tought**](/thought/) section will be here.
+    Intro to [**Thought**](/thought/) section will be here.
 
 -   **Testing**
 
@@ -34,3 +34,6 @@ hide:
     Intro to [**IO (Informational Overload)**](/io/) section will be here.
 
 </div>
+
+!!! note "Invitation for Collaboration"
+    Hello, Humans with Tools :eyes:. This is an invitation: let's do that [together](collaboration.md).

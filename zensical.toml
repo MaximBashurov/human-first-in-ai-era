@@ -36,7 +36,7 @@ docs_dir = "docs"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 Maxim Bashurov
+Copyright &copy; 2026 <a href="/collaboration/">Humans with Tools</a>
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -46,15 +46,11 @@ Copyright &copy; 2026 Maxim Bashurov
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
+# "nav here" (for search within file)
 nav = [
     {"Home" = "index.md"},
     { "Thought" = [
-        { "Overview" = "thought/index.md" },
-        { "Tech Points" = [
-            { "Zensical Abilities" = "zensical.md" },
-            { "Markdown in 5min" = "markdown.md" },
-            { "Formatting Test" = "formatting-test.md" },
-        ] },
+        { "Overview" = "thought/index.md" }
     ] },
     { "Testing" = "testing/index.md" },
     { "Survival" = "survival/index.md" },

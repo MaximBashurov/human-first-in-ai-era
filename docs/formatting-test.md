@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Formatting Test
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a mattis nisl. Donec tempus scelerisque pretium. Suspendisse vitae libero eget ipsum posuere lacinia ac nec enim. Ut rutrum justo dui, ac molestie urna ultrices eget. Proin vitae accumsan mauris. Proin eget velit turpis. Nullam gravida, quam vel molestie ornare, nisl eros lobortis enim, ac suscipit massa odio vel risus. Donec rutrum bibendum metus vitae dictum.

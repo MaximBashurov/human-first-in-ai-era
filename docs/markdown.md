@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Markdown in 5min
 
 ## Headers
