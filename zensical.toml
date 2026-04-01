@@ -50,12 +50,21 @@ Copyright &copy; 2026 <a href="/collaboration/">Humans with Tools</a>
 # "nav here" (for search within file)
 nav = [
     {"Home" = "index.md"},
+    # Nested paths as bare strings: Zensical takes the nav label from each page
+    # (first H1 by default, or `title` in front matter if set — see Navigation docs).
+    # One nested item per top-level tab so navigation.path (breadcrumbs) still renders.
     { "Thought" = [
-        { "Overview" = "thought/index.md" }
+        "thought/index.md",
     ] },
-    { "Testing" = "testing/index.md" },
-    { "Survival" = "survival/index.md" },
-    { "IO" = "io/index.md" },
+    { "Testing" = [
+        "testing/index.md",
+    ] },
+    { "Survival" = [
+        "survival/index.md",
+    ] },
+    { "IO" = [
+        "io/index.md",
+    ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
