@@ -61,6 +61,10 @@ nav = [
     ] },
     { "Survival" = [
         "survival/index.md",
+        { "Layoffs and Survival Cases" = [
+            "survival/layoffs-and-survival-cases/index.md",
+            "survival/layoffs-and-survival-cases/oracle-layoff-surf-case.md",
+        ] },
     ] },
     { "IO" = [
         "io/index.md",

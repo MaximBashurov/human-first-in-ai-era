@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# Markdown in 5min
+# Markdown in 5 Min
 
 ## Headers
 ```
@@ -15,7 +15,7 @@ search:
 ###### H6 Header
 ```
 
-## Text formatting
+## Text Formatting
 ```
 **bold text**
 *italic text*
@@ -24,7 +24,7 @@ search:
 `inline code`
 ```
 
-## Links and images
+## Links and Images
 ```
 [Link text](https://example.com)
 [Link with title](https://example.com "Hover title")
@@ -52,7 +52,7 @@ Ordered:
 >> Nested quote
 ```
 
-## Code blocks
+## Code Blocks
 ````
 ```javascript
 function hello() {
@@ -69,7 +69,7 @@ function hello() {
 | Row 2    | Data     | Data     |
 ```
 
-## Horizontal rule
+## Horizontal Rule
 ```
 ---
 or
@@ -78,19 +78,19 @@ or
 ___
 ```
 
-## Task lists
+## Task Lists
 ```
 - [x] Completed task
 - [ ] Incomplete task
 - [ ] Another task
 ```
 
-## Escaping characters
+## Escaping Characters
 ```
 Use backslash to escape: \* \_ \# \`
 ```
 
-## Line breaks
+## Line Breaks
 ```
 End a line with two spaces  
 to create a line break.

@@ -57,7 +57,7 @@ greet("Python")
 
 Code can also be highlighted inline: `#!python print("Hello, Python!")`.
 
-## Content tabs
+## Content Tabs
 
 > Go to [documentation](https://zensical.org/docs/authoring/content-tabs/)
 
