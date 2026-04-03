@@ -75,6 +75,11 @@ nav = [
             "thought/thought-per-question/question-16.md",
             "thought/thought-per-question/question-17.md",
         ] },
+        { "Thought per Actor" = [
+            "thought/thought-per-actor/index.md",
+            "thought/thought-per-actor/claude.md",
+            "thought/thought-per-actor/chatgpt.md",
+        ] },
     ] },
     { "Testing" = [
         "testing/index.md",
