@@ -28,10 +28,6 @@ So, these Docs are the result of choice of this type: a choice to **consider Hum
 | **16.** | Will AI be able to create Art (literature, painting, music, ect.) indistinguishable from one created by Human? | Will Humans be able to grow (endlessly) their ability to distinguish authenticity in what they see, and in themselves when they CREATE? |
 | **17.** | How to prevent misuse of AI? | Is inevitable (by Human nature) misuse of AI a suitable excuse for "AI Race" and what does it tell us about Human nature? |
 
-## Thought per Question
-
-See [Thought per Question](thought-per-question/index.md) for a table of **Question-01** … **Question-17** with links to one page per question (same framing as below: *what we ask* / *what we do not ask*).
-
 ## Rules of Consistency and Carte Blanche for Survival
 
 The **Rules** (of the Game) for these Docs in relation with the questions above:
