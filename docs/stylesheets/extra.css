@@ -26,3 +26,15 @@
 .md-content__inner h1#human-first-in-ai-era {
   display: none;
 }
+
+/* Thought per Question index: keep "Question-XX" on one line; keep first column narrow */
+.md-typeset table:has(.thought-question-code) th:first-child,
+.md-typeset table:has(.thought-question-code) td:first-child {
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: top;
+}
+
+.md-typeset .thought-question-code {
+  white-space: nowrap;
+}
