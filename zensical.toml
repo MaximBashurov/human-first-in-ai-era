@@ -58,6 +58,10 @@ nav = [
     ] },
     { "Testing" = [
         "testing/index.md",
+        { "Experience and Usage Results" = [
+            "testing/experience-and-usage-results/index.md",
+            "testing/experience-and-usage-results/mb-personal-experience-with-ai.md",
+        ] },
     ] },
     { "Survival" = [
         "survival/index.md",
@@ -263,7 +267,7 @@ features = [
     # When anchor following for the table of contents is enabled, the sidebar
     # is automatically scrolled so that the active anchor is always visible.
     # https://zensical.org/docs/setup/navigation/#anchor-following
-    # "toc.follow",
+    "toc.follow",
 
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
