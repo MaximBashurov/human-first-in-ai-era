@@ -234,8 +234,6 @@ Just hours after the Pentagon moved against Anthropic, rival OpenAI announced a 
 
 The deal led to high-profile resignations at OpenAI, including hardware leader Caitlin Kalinowski, who cited ethical concerns.
 
-For this same episode from **OpenAI’s** side (timing of the defense deal, safeguards narrative, internal resignations), see [OpenAI (LLM) — Conflict with Pentagon (February 2026)](chatgpt.md#conflict-with-pentagon-february-2026).
-
 [^1]: Jack Clark is a co-founder of Anthropic, Formerly the Policy Director at OpenAI and a technology journalist at Bloomberg, he is a central figure in global AI governance. He co-chairs the Stanford AI Index and advises the OECD and the U.S. National AI Advisory Committee.
 [^2]: National AI Safety Institutes (AISIs) - government-funded bodies established to provide independent safety evaluations of AI models. 2026 Network: **UK**: The AI Security Institute (formerly AISI), part of the Dept. for Science, Innovation and Technology; **USA**: The Center for AI Standards and Innovation (CAISI) (formerly US AISI), part of NIST; **Others**: Japan, Singapore, South Korea, Australia, Canada, and the EU all have active institutes.
 
