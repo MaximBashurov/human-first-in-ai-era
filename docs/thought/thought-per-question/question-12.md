@@ -110,7 +110,7 @@ Tech companies argue that the data is only 10% of the equation. They claim that 
 
 1. In AI Era, the **UBI > uninterrupted growth of population > UHI** chain is **mandatory** for all economical entities (including LLMs themselves) to survive.
 1. None of the systems utilizing knowledge (consolidated by Internet) **produced by all humankind throughout all its history** can ever be a private property.
-1. For **UBI/UHI/keep population** to work, the schema of re-distributing of wealth should be dramatically re-shaped.
+1. For **UBI/UHI/keep population** to work, the schema of re-distributing of wealth should be dramatically re-shaped. Sharing of wealth gained with the help of AI should gradually go to the absolute extreme level of 95%.
 1. For **UBI/UHI/keep population** to work, UBI/UHI development should go with the same pace as LLM development itself, which is absolutely not the case.
 
 **Open Questions:**
