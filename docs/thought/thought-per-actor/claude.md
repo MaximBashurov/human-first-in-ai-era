@@ -105,6 +105,11 @@ After loud positioning of itself as **human-centered AI**, Anthropic is being co
 <iframe src="https://www.youtube.com/embed/krsiX6tpmmE?si=XS72OxtPxOayBCba" title="Dario Amodei: The Adolescence of Technology – a detailed 17-minute breakdown of the 2026 essay by Anthropic CEO." frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+!!! warning "Counter questions"
+
+    1. Is Dario Amodei delusional in his "Adolescence of Technology" essay, acting not as a researcher, but as a science fiction reader, like [this](https://www.youtube.com/watch?v=mf1CkHE5AkY) video comment suggests?
+    1. Is that possible that his core assumption ("AI will become incredibly powerful") is wrong?
+
 ### Public Benefit Corporation (PBC)
 
 Anthropic is **Public Benefit Corporation (PBC)**. Unlike traditional corporations that are legally required to prioritize "shareholder value" (profit) above all else, a PBC is legally mandated to **balance profit with a specific social mission**.
@@ -128,6 +133,13 @@ They have Anthropic co-founder Jack Clark as Head of Public Benefit.
 Their 2026 *Economic Index Report* found that for tasks requiring a university degree, Claude can increase work speed by **12 times**. However:
 
 > As AI is systematically "harvesting" the logical and analytical parts of human jobs, humans will be forced to shift from "finding answers" to "defining questions," as the value of pure information processing drops to near zero.
+
+!!! warning "Counter questions"
+
+    1. Does "faster" differ from "better" or "their well-being increased"? 
+    1. Why does report concentrate of the "faster" factor?
+    1. Who exactly and how will evaluate "found answers"?
+    1. Why exactly does anybody need to be "empowered" (12x or whatever) if one does not have the ability to apply that power (fired and cannot find new job)?
 
 ## Is what Anthropic saying in correspondence with what they are actually doing?
 
@@ -230,3 +242,22 @@ For this same episode from **OpenAI’s** side (timing of the defense deal, safe
 *[OECD]: The Organisation for Economic Co-operation and Development (OECD) is an international intergovernmental organization headquartered in Paris, France.
 *[RSP]: Responsible Scaling Policy - AI company's "rulebook", defining what safety measures must be in place for the growing model before company allows to continue training or releasing it. While Anthropic was the first to publish such a policy in 2023, the concept has since become an industry standard for major AI labs (11 other companies). Different companies use different names and have different content for their versions.
 *[GDP]: Gross Domestic Product. It is the most common way to measure the size and health of a country's economy. Represents the total monetary value of all finished goods and services produced within a country's borders during a specific period (usually a quarter or a year).
+
+## Current Conclusions and Open Questions
+
+!!! note
+
+    This may change with time on new data or thought arrival. Also, search for "counter questions" around this Doc (Section, All Docs) for more thought, contemplation and insight.
+
+**Current Conclusions:**
+
+1. In their philosophy or vision, Anthropic does not have any thought or idea on immediate human survival. All beautiful future is more or less far ahead, and it is unclear how to get there (immediate action on paying bills or buying grocery).
+1. While in some cases [fighting](#conflict-with-pentagon-february-2026) for their being human-centric, Anthropic generally [fails](#unilateral-pause-conflict-rsp-v30-february-2026) this principle to AI arms race. As their own philosophy states this poses an existential risk, that is a huge fail.
+1. The fail mentioned above is not solely "Anthropic's" - it is a collective fail.
+
+**Open Questions:**
+
+1. Do Anthropic's specialized teams and structures investigating the impact of AI truly do the actual investigation or just form the picture promoting Anthropic's products?
+1. What are the current findings of **The Anthropic Institute** and the **Societal Impacts Team**?
+1. How can we estimate the [measures](#emphasizing-risks-while-being-positive-about-mitigation) that Anthropic lists as necessary to "mitigate huge AI risks" against what is actually happening? Are this measures actually taken recently or at all?
+1. How Anthropic's latest releases (products, their nature, pace of releases) correspond to their "human-centric" approach?
