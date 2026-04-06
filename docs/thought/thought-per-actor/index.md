@@ -13,3 +13,8 @@ Here we investigate what **actors** (LLMs, themselves and BigTech) **think** reg
 ---
 
 So, we try to understand their **philosophy** rather that their business goals, not their vision of "what cool features we can implement", but their **attitude to people** and the difference (if any) between what they say about this attitude and what they actually do. Interestingly, there cannot be "no attitude": if some actor does not tell **anything** about how his work or actions affect people, it means they **ignore** them, which is the attitude by itself.
+
+## Actors
+
+- [Anthropic (LLM) — Claude](claude.md)
+- [Google (LLM & BigTech) — Gemini](gemini.md)

@@ -78,6 +78,7 @@ nav = [
         { "Thought per Actor" = [
             "thought/thought-per-actor/index.md",
             "thought/thought-per-actor/claude.md",
+            "thought/thought-per-actor/gemini.md",
         ] },
     ] },
     { "Testing" = [
