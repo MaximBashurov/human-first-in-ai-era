@@ -1,6 +1,6 @@
 # Thought
 
-It is impossible to predict how **AI Era**[^1] will unfold due to huge number of factors acting simultaneously. It is unclear which technologies to learn, which skills to chase, and to what one should dedicate their (not endless) resources and ability to learn. It is not obvious how to beat an anxiety and uncertainty in a rapidly changing reality. It is not quite clear whether CEOs are visionaries or just morons blinded by their boundless greed and why "experts" provide such a dramatically different expertise and predictions.
+It is impossible to predict how **AI Era**[^1] will unfold due to huge number of factors acting simultaneously. It is unclear which technologies to learn, which skills to chase, and to what one should dedicate their (not endless) resources and ability to learn. It is not obvious how to beat an anxiety and uncertainty in a rapidly changing reality. It is not quite clear whether CEOs are visionaries or [just morons](../thought/thought-per-question/question-03.md#about-people-being-different) blinded by their boundless greed and why "experts" provide such a dramatically different expertise and predictions.
 
 It is frighteningly unclear which **choices** would be good enough to survive. But if for at least a moment we cope our fears, it becomes clear that some of our choices are not related to survival, but rather to **what we are** and what we **choose to consider important**.
 
