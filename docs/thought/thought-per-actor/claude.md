@@ -16,7 +16,7 @@ The name Anthropic is a direct nod to the company’s focus on **human-centered 
 
 > AI must be "fine-tuned" to human values. If the "constants" of an AI’s logic are even slightly off from human ethics, it could become a threat to our existence.
 
-The founders of Anthropic famously left OpenAI because they felt it was becoming too commercial and moving too fast on capabilities without enough focus on **safety**.
+**Birth as Separation**: The founders of Anthropic famously [left OpenAI](chatgpt.md#the-2019-schism-anthropic-birth) because they felt it was becoming too commercial and moving too fast on capabilities without enough focus on **safety**.
 
 The name aligns with their signature technology, **Constitutional AI**. They don't just train their models on the internet; they give them a "Constitution" based on human documents like the UN Declaration of Human Rights. The name "Anthropic" serves as a constant reminder that the model’s "North Star" should be the welfare of humans.
 

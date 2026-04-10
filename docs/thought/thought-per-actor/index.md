@@ -13,3 +13,7 @@ Here we investigate what **actors** (LLMs, themselves and BigTech) **think** reg
 ---
 
 So, we try to understand their **philosophy** rather that their business goals, not their vision of "what cool features we can implement", but their **attitude to people** and the difference (if any) between what they say about this attitude and what they actually do. Interestingly, there cannot be "no attitude": if some actor does not tell **anything** about how his work or actions affect people, it means they **ignore** them, which is the attitude by itself.
+
+## Failing Together
+
+While all the major "LLM actors" claim understanding the risks and "talk openly" about them, their actual behavior tends to **increase those risks**, not to mitigate them. While OpenAI (LLM pioneer) [made his way](chatgpt.md#the-three-phases-of-openai) from open source scientific project to giant and greedy corporation which promises investors more than 100x return, its illegitimate child that was born out of wish to be (unlike it's "parent") "genuinely safe" - Anthropic - has [prioritized](claude.md#unilateral-pause-conflict-rsp-v30-february-2026) staying competitive over the existential and catastrophic risks they originally warned about.
