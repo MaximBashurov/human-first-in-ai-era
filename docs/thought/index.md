@@ -1,6 +1,6 @@
 # Thought
 
-It is impossible to predict how **AI Era**[^1] will unfold due to huge number of factors acting simultaneously. It is unclear which technologies to learn, which skills to chase, and to what one should dedicate their (not endless) resources and ability to learn. It is not obvious how to beat an anxiety and uncertainty in a rapidly changing reality. It is not quite clear whether CEOs are visionaries or just morons blinded by their boundless greed and why "experts" provide such a dramatically different expertise and predictions.
+It is impossible to predict how **AI Era**[^1] will unfold due to huge number of factors acting simultaneously. It is unclear which technologies to learn, which skills to chase, and to what one should dedicate their (not endless) resources and ability to learn. It is not obvious how to beat an anxiety and uncertainty in a rapidly changing reality. It is not quite clear whether CEOs are visionaries or [just morons](../thought/thought-per-question/question-03.md#about-people-being-different) blinded by their boundless greed and why "experts" provide such a dramatically different expertise and predictions.
 
 It is frighteningly unclear which **choices** would be good enough to survive. But if for at least a moment we cope our fears, it becomes clear that some of our choices are not related to survival, but rather to **what we are** and what we **choose to consider important**.
 
@@ -34,5 +34,6 @@ The **Rules** (of the Game) for these Docs in relation with the questions above:
 
 1. Whether these questions are enough or not, the extra ones **should never be added** to the [Thought](../thought/), [Testing](../testing/) and [IO](../io/), but anything can be added to [**Survival**](../survival/), with or without any regard for the questions.
 1. Whether the formulations of the questions are good or not, they **should never be changed**, as mistakes within them define **Authenticity and Process** rather than **Result and Ideal Product**.
+1. These docs are "Thinking in Progress", which means they contain not only data and research, but also "current conclusions", "open questions" and "counter questions". These questions and conclusions can travel from child articles to parent ones and even between different chapters and sections. They may change with time on new data or thought arrival.
 
 [^1]: If it is an "Era" at all and not a "Bubble" which is currently (Mar 2026) is not quite clear.

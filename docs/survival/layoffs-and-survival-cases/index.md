@@ -26,3 +26,31 @@ And even more precise question: do these CEOs, their investors **care** about pe
 !!! note "Plus: AI's Indirect Impact"
 
     One more note to the expressed above: we always need nowadays take into consideration that the increased economical pressure ("competitors will move faster and our company will not survive") is **everywhere**.
+
+## Jevons Paradox - AI's Application
+
+The economic theories can feel like gaslighting when applied to real human lives. The Jevons Paradox is frequently cited by AI optimists to say "Don't worry, efficiency creates more work!"
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/XVNH8MPRgVY?si=qMuF8AhVd8MQSIM3" title="This video from IBM Technology explores how organizations can use AI strategically, specifically by applying the Jevons Paradox to understand its impact on the workforce. The core argument is that &quot;smart&quot; organizations won't use AI just to cut costs and shrink their staff, but rather as an enabler for growth and innovation." frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+In the 1800s, Jevons noticed that when steam engines became more efficient (used less coal), people didn't save coal. Instead, they built millions more steam engines because it was now so cheap to run them. Total coal use went up.
+
+By analogy, AI optimists suggest that AI will create a **huge (scaled up) amount** of entirely new roles (e.g., AI product managers, safety engineers) and expand "long-tail" services like personalized healthcare and niche legal analysis that were previously too expensive - while routine, "low-discretion" roles may decrease, there will be a higher demand for "high-context" roles that require a human-in-the-loop, such as:
+
+* AI supervision and governance.
+* Problem framing and goal setting.
+* Customer-facing roles requiring emotional intelligence.
+* Cross-functional coordination.
+
+**Doubt**
+
+> How exactly erasing of 5M taxi drivers with Tesla FSD will create "more demand" for taxi drivers?
+
+**It doesn't**. Jevons Paradox does not create more demand for taxi drivers—it creates more demand for **rides**. In the coal case, "Coal" is the resource. In the taxi case, "The Driver" is not the resource—"**Transportation**" is. 
+
+* **Reality:** If Tesla FSD makes a ride cost $0.20 per mile instead of $2.00, demand for rides will skyrocket. People will send their cars to pick up groceries, kids, or even just circle the block to avoid parking.
+* **Result:** We use more "Driving," but we need zero "Drivers." Jevons Paradox explains why we will have more autonomous cars on the road than we ever had human taxis, but it offers no protection for the human worker.
+* **Time Gap** and **Skill Gap**: You cannot turn 5 million taxi drivers (or thousands of software developers) into "Customer-facing roles requiring emotional intelligence" overnight.
+* **Amount Gap:** will we need 6 million "Customer-facing roles requiring emotional intelligence"?
