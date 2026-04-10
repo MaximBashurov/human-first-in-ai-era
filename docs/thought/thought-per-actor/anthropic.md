@@ -236,10 +236,6 @@ The deal led to high-profile resignations at OpenAI, including hardware leader C
 [^1]: Jack Clark is a co-founder of Anthropic, Formerly the Policy Director at OpenAI and a technology journalist at Bloomberg, he is a central figure in global AI governance. He co-chairs the Stanford AI Index and advises the OECD and the U.S. National AI Advisory Committee.
 [^2]: National AI Safety Institutes (AISIs) - government-funded bodies established to provide independent safety evaluations of AI models. 2026 Network: **UK**: The AI Security Institute (formerly AISI), part of the Dept. for Science, Innovation and Technology; **USA**: The Center for AI Standards and Innovation (CAISI) (formerly US AISI), part of NIST; **Others**: Japan, Singapore, South Korea, Australia, Canada, and the EU all have active institutes.
 
-*[OECD]: The Organisation for Economic Co-operation and Development (OECD) is an international intergovernmental organization headquartered in Paris, France.
-*[RSP]: Responsible Scaling Policy - AI company's "rulebook", defining what safety measures must be in place for the growing model before company allows to continue training or releasing it. While Anthropic was the first to publish such a policy in 2023, the concept has since become an industry standard for major AI labs (11 other companies). Different companies use different names and have different content for their versions.
-*[GDP]: Gross Domestic Product. It is the most common way to measure the size and health of a country's economy. Represents the total monetary value of all finished goods and services produced within a country's borders during a specific period (usually a quarter or a year).
-
 ## Current Conclusions and Open Questions
 
 !!! note

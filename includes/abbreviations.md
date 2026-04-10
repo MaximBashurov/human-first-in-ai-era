@@ -1,0 +1,6 @@
+*[GDP]: Gross Domestic Product. It is the most common way to measure the size and health of a country's economy. Represents the total monetary value of all finished goods and services produced within a country's borders during a specific period (usually a quarter or a year).
+*[OECD]: The Organisation for Economic Co-operation and Development (OECD) is an international intergovernmental organization headquartered in Paris, France.
+*[RLHF]: Reinforcement Learning from Human Feedback
+*[RSP]: Responsible Scaling Policy - AI company's "rulebook", defining what safety measures must be in place for the growing model before company allows to continue training or releasing it. While Anthropic was the first to publish such a policy in 2023, the concept has since become an industry standard for major AI labs (11 other companies). Different companies use different names and have different content for their versions.
+*[UBI]: Universal Basic Income - each person getting amount of money enough to survive (food, apartment, medical service, public transport) - without doing any job.
+*[UHI]: Universal High Income - each person getting amount of money enough to buy any products or services that they want - without doing any job.

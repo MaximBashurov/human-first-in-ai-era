@@ -153,6 +153,3 @@ Tech companies argue that the data is only 10% of the equation. They claim that 
 
 
 [^1]: The "Invisible" Workforce: Most of RLHF work isn't happening in Silicon Valley. It’s outsourced to the Global South—Kenya, Nigeria, India, and the Philippines. While OpenAI or Google might pay an American contractor 25–5 USD/hour for expert RLHF (like coding or law), workers in Kenya through platforms like Sama or Scale AI have been documented earning as little as 1.50–2.00 USD/hour. Moreover, these trainers don't just "rate" answers; they "clean" the AI. They have to review thousands of pieces of horrific content (violence, hate speech, etc.) to tell the AI, "Don't show this to users".
-*[UBI]: Universal Basic Income - each person getting amount of money enough to survive (food, apartment, medical service, public transport) - without doing any job.
-*[UHI]: Universal High Income - each person getting amount of money enough to bye any products or services that they want - without doing any job.
-*[RLHF]: Reinforcement Learning from Human Feedback
