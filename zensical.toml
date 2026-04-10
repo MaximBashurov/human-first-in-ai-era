@@ -18,7 +18,7 @@ site_name = "Human First in AI Era"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "These Docs are the result of a choice to consider Humans more important than any technologies. They explore not AI, but Humans at AI Era."
 
 # The site_author attribute. This is used in the HTML head element.
 #
