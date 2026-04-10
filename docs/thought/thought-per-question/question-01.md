@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-01
 title: 1. What can Human do to oneself with AI?
 ---
 

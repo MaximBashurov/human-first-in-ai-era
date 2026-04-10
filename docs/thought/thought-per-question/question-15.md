@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-15
 title: 15. What resources are standing behind Human minds that we need to explore in the presence of AI?
 ---
 

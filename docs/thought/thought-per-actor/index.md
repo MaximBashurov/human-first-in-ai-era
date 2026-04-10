@@ -16,13 +16,13 @@ So, we try to understand their **philosophy** rather that their business goals, 
 
 ## Failing Together
 
-While all the major "LLM actors" claim understanding the risks and "talk openly" about them, their actual behavior tends to **increase those risks**, not to mitigate them. While OpenAI (LLM pioneer) [made his way](chatgpt.md#the-three-phases-of-openai) from open source scientific project to giant and greedy corporation which promises investors more than 100x return, its illegitimate child that was born out of wish to be (unlike it's "parent") "genuinely safe" - Anthropic - has [prioritized](claude.md#unilateral-pause-conflict-rsp-v30-february-2026) staying competitive over the existential and catastrophic risks they originally warned about.
+While all the major "LLM actors" claim understanding the risks and "talk openly" about them, their actual behavior tends to **increase those risks**, not to mitigate them. While OpenAI (LLM pioneer) [made his way](openai.md#the-three-phases-of-openai) from open source scientific project to giant and greedy corporation which promises investors more than 100x return, its illegitimate child that was born out of wish to be (unlike it's "parent") "genuinely safe" - Anthropic - has [prioritized](anthropic.md#unilateral-pause-conflict-rsp-v30-february-2026) staying competitive over the existential and catastrophic risks they originally warned about.
 
 ## Actors
 
-- [OpenAI (LLM) — ChatGPT](chatgpt.md)
-- [Anthropic (LLM) — Claude](claude.md)
-- [Google (LLM & BigTech) — Gemini](gemini.md)
+- [OpenAI (LLM) — ChatGPT](openai.md)
+- [Anthropic (LLM) — Claude](anthropic.md)
+- [Google (LLM & BigTech) — Gemini](google.md)
 
 
 aaa Test

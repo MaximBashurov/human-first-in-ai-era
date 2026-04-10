@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-07
 title: 7. Are there realms of reality, where Humans can and AI cannot step into?
 ---
 

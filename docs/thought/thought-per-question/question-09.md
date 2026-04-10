@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-09
 title: 9. Is "smartness" a multi-dimensional space, and if so, how much of these dimensions are occupied by humans and AI?
 ---
 

@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-04
 title: 4. Is what Humans developing and promoting AI saying in correspondence with what they are actually doing?
 ---
 

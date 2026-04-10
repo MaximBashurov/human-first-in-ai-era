@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-16
 title: 16. Will Humans be able to grow (endlessly) their ability to distinguish authenticity in what they see, and in themselves when they CREATE?
 ---
 

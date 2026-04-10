@@ -1,7 +1,6 @@
 ---
 tags:
-  - question-03
-  - question-04
+  - google
 ---
 
 # Google (LLM & BigTech)

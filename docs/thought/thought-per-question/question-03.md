@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-03
 title: 3. What do Humans developing and promoting AI think about what that will do to other Humans?
 ---
 

@@ -77,9 +77,9 @@ nav = [
         ] },
         { "Thought per Actor" = [
             "thought/thought-per-actor/index.md",
-            "thought/thought-per-actor/chatgpt.md",
-            "thought/thought-per-actor/claude.md",
-            "thought/thought-per-actor/gemini.md",
+            "thought/thought-per-actor/openai.md",
+            "thought/thought-per-actor/anthropic.md",
+            "thought/thought-per-actor/google.md",
         ] },
     ] },
     { "Testing" = [

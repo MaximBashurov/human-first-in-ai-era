@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-17
 title: 17. Is inevitable (by Human nature) misuse of AI a suitable excuse for "AI Race" and what does it tell us about Human nature?
 ---
 

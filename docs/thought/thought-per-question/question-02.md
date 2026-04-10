@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-02
 title: 2. What will some Humans do to other Humans' work, income, safety and well being by growing and utilizing AI?
 ---
 

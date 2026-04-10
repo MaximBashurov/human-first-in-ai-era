@@ -1,7 +1,6 @@
 ---
 tags:
-  - question-03
-  - question-04
+  - openai
 title: OpenAI (LLM)
 ---
 
@@ -124,7 +123,7 @@ In late 2025, OpenAI underwent a major **recapitalization**. While it previously
 
 ### Story with Pentagon (February 2026)
 
-OpenAI had its role in the [episode](claude.md#conflict-with-pentagon-february-2026) in which the Pentagon pressed **Anthropic** for unrestricted use—and Anthropic **refused**, triggering a **national-security supply-chain** designation.
+OpenAI had its role in the [episode](anthropic.md#conflict-with-pentagon-february-2026) in which the Pentagon pressed **Anthropic** for unrestricted use—and Anthropic **refused**, triggering a **national-security supply-chain** designation.
 
 * **Timing:** Hours after the move against Anthropic, **OpenAI** announced a **new ~$200M** arrangement to put its models on **U.S. military classified networks**. OpenAI described **negotiated safeguards**; observers noted the **sequence** and asked whether OpenAI had **stepped in** where Anthropic had **stepped back**.
 * **Internal cost:** The defense deal contributed to **high-profile departures** at OpenAI—notably **Caitlin Kalinowski** (hardware leadership), citing **ethical** concerns about military use and alignment with the mission.

@@ -1,6 +1,4 @@
 ---
-tags:
-  - question-10
 title: 10. What does the presence of this question highlight about our understanding of what Humans' (and other species') embodied GI is?
 ---
 
