@@ -47,4 +47,6 @@ That definitely mean that current humankind's choice is the "Mirror-Parasite" br
 
 **Open Questions:**
 
-1. Should we create a (worldwide) political party to defend Humans interests?
+1. Should we create a (worldwide) political party (or other organization, initiative)[^1] to defend Humans interests?
+
+[^1]: Note from MB: currently thinking about that along with my friend. There is an idea of "150%" initiative, some guidelines of it are presented in [this](https://docs.google.com/presentation/d/1G2KRMOOWESP9kaArk30gv8AXCJRWuYLpw__8H5hgBz0/edit?usp=sharing) slide deck.
