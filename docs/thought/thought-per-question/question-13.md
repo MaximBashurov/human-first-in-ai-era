@@ -73,3 +73,7 @@ In this system, AI is not a tool for human flourishing, but a mechanism for **va
 That pulls us back to the conclusion of the "initial text":
 
 > Endless greed. On such a background, it is unclear if we can have any serious conversation about UBI or UHI, or we should rather immediately switch our attention the scenario of total economics collapse caused not by "new technology", but by greed and stupidity.
+
+!!! warning "Counter questions"
+
+    1. Is that the case when we have to justify AI race (with all its negative human impact) by Greed being a core part of human nature or is that the case when the upcoming technology **demands** Human nature to evolve as if it stays unchanged, the humankind goes to [collapse](../thought-per-question/question-12.md#full-economics-collapse-scenario)?
