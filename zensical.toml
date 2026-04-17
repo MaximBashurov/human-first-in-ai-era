@@ -95,6 +95,14 @@ nav = [
             "survival/layoffs-and-survival-cases/index.md",
             "survival/layoffs-and-survival-cases/oracle-layoff-surf-case.md",
         ] },
+        { "Support per Actor" = [
+            "survival/support-per-actor/index.md",
+            "survival/support-per-actor/senator-sanders-labor-leaders-usa.md",
+        ] },
+        { "Support per Country" = [
+            "survival/support-per-country/index.md",
+            "survival/support-per-country/usa.md",
+        ] },
     ] },
     { "IO" = [
         "io/index.md",

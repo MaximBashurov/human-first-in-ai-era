@@ -2,6 +2,12 @@
 
 None of the [interesting questions](../thought/index.md#how-these-docs-think-15-questions) about AI and Human Nature matter, no place or space for Curiosity, Creativity or Novelty remains if we **do not survive the transition period**.
 
+## Topics
+
+- [Layoffs and Survival Cases](layoffs-and-survival-cases/index.md)
+- [Support per Actor](support-per-actor/index.md)
+- [Support per Country](support-per-country/index.md)
+
 ## "Mirror-Parasite" vs. "Mirror-Symbiot"
 
 As stated, these docs are "[Thinking in Progress](../thought/index.md#rules-of-consistency-and-carte-blanche-for-survival)". Here is an extremely important general thought arising from the current understanding of [AI capabilities](../thought/thought-per-question/question-14.md#current-conclusions-and-open-questions) and limits:
