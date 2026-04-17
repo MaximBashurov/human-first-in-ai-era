@@ -29,7 +29,7 @@ The current collective thought goes around several ideas here:
 1. AI takes 80% of all jobs. Revenue of BigCorp skyrockets.
 1. Fired people do not bye services of BigCorp anymore.
 1. Fired people do not pay apartment rent or car leasing anymore.
-1. Car companies lay off their stuff, this stuff stops consuming.
+1. Car companies lay off their staff, this staff stops consuming.
 1. Fired people do not pay taxes.
 1. Fired people don not go to restaurants and do not travel to hotels.
 1. Empty hotels and restaurants do not pay to plumbers, maids and waiters.
@@ -56,6 +56,11 @@ The current collective thought goes around several ideas here:
 ## Universal Basic Income (UBI)
 
 In the era of AI, UBI turns from desirable to mandatory - if all economical entities and people holding them want to survive and grow, they need people to be alive and they need a lot of people and there is no intermediate period in which people who are alive now are "temporarily not needed" - at no moment of transition the economics can afford a fall to any degree.
+
+!!! warning "Counter questions"
+
+    1. Is UBI actually a "mass poverty", that, moreover can be preserved for a very long time as a "social contract"? Does this poverty increase or decrease human creativity?
+    1. Can UBI cause the "dead society" with no motivation and reason or chance for personal success, like the Soviet Union social system (declared "communism") in past?
 
 ## Universal High Income (UHI)
 
