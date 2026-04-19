@@ -39,6 +39,8 @@ The current collective thought goes around several ideas here:
 1. BigPartners find themselves not having customers anymore (former developers, support engineers, car company employees, landlords, restaurant and hotel holders, plumbers, maids, waiters) and do not bye services of BigCorp anymore.
 1. Revenue of BigCorp is 0. Ability to spend it is 0.
 
+> Interestingly, BigCorp are also people and they have a potential of **understanding** all written above, but do they have a privilege or ability to take that into consideration or are we dealing with the [automation trap](question-02.md#they-will-destroy-them-and-themselves-prisoners-dilemma-automation-trap)?
+
 !!! note "Core Paradox"
 
     **AI can produce everything (probably), but it cannot "consume" anything (definitely).** An AI doesn't need a hotel room, a steak dinner, or a new pair of shoes. If humans can't afford those things, the industries that make them die—and the AI that optimized them becomes a tool for a ghost town.

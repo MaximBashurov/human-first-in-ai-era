@@ -77,3 +77,4 @@ That pulls us back to the conclusion of the "initial text":
 !!! warning "Counter questions"
 
     1. Is that the case when we have to justify AI race (with all its negative human impact) by Greed being a core part of human nature or is that the case when the upcoming technology **demands** Human nature to evolve as if it stays unchanged, the humankind goes to [collapse](../thought-per-question/question-12.md#full-economics-collapse-scenario)?
+    1. Is it rather a [systematic trap](question-02.md#they-will-destroy-them-and-themselves-prisoners-dilemma-automation-trap) than a pure greed?

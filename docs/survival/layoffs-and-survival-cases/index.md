@@ -49,3 +49,11 @@ By analogy, AI optimists suggest that AI will create a **huge (scaled up) amount
 * **Result:** We use more "Driving," but we need zero "Drivers." Jevons Paradox explains why we will have more autonomous cars on the road than we ever had human taxis, but it offers no protection for the human worker.
 * **Time Gap** and **Skill Gap**: You cannot turn 5 million taxi drivers (or thousands of software developers) into "Customer-facing roles requiring emotional intelligence" overnight.
 * **Amount Gap:** will we need 6 million "Customer-facing roles requiring emotional intelligence"?
+
+## "They are Greedy" vs. "They Have No Choice"
+
+From [here](../../thought/thought-per-question/question-02.md):
+
+> If "Company A" stays human but "Company B" automates, Company B gains a massive cost advantage and crushes Company A along with **all** its employees.
+
+Valid point.
