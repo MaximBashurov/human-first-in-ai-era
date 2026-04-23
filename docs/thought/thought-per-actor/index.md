@@ -23,6 +23,4 @@ While all the major "LLM actors" claim understanding the risks and "talk openly"
 - [OpenAI (LLM) — ChatGPT](openai.md)
 - [Anthropic (LLM) — Claude](anthropic.md)
 - [Google (LLM & BigTech) — Gemini](google.md)
-
-
-aaa Test
+- [Six AI Tigers (LLM, China)](six-ai-tigers-china.md)

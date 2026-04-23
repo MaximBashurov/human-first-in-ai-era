@@ -80,6 +80,7 @@ nav = [
             "thought/thought-per-actor/openai.md",
             "thought/thought-per-actor/anthropic.md",
             "thought/thought-per-actor/google.md",
+            "thought/thought-per-actor/six-ai-tigers-china.md",
         ] },
     ] },
     { "Testing" = [
