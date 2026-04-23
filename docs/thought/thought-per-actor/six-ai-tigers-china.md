@@ -99,7 +99,7 @@ Currently, the fiscal deficit is held at 4% of GDP (a high for China), which mea
 1. Tigers' most profitable products in 2026 are specifically designed to replace the **knowledge worker** (legal, medical, coding, management).
 1. The Tigers are building the "Infrastructure of Displacement" while labeling it the "Infrastructure of Empowerment."
 1. Trends are absolutely identical to the ones for US LLM giants.
-1. While Chinese government is actually deceiving people psychologically by maintaining the "bridge to nowhere", in the same time they actually provide them a UBI and creating bridge to HBI in future. They also have much more chances to make a pivot to "Robot Tax" or "AI Usage Fee" in future, than their Western colleagues.
+1. While the Chinese government is actually deceiving people psychologically by maintaining the "bridge to nowhere", at the same time, they actually provide many of them with a UBI and create a bridge to UHI in the future. They also have much more chances to make a pivot to "Robot Tax" or "AI Usage Fee" in the future, than their Western colleagues.
 
 **Open Questions:**
 
