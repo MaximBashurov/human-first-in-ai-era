@@ -106,6 +106,27 @@ The data above does not include the smaller companies not visible by media.
 * **Defensive Behaviors**: Colleagues who used to collaborate now view each other as competitors for the "survivor" spots in the next inevitable round. Survivors stop sharing tribal knowledge because "being the only one who knows how X works" is a survival strategy. In the rush toward AI-proofing, survivors may keep new efficiencies or AI prompts to themselves, fearing that if they make the team too efficient, they will "automate themselves out of a job". True loyalty is turning into "**loyalty demonstration**" and "hypocritical fit" to company "culture" and policies (based on **fear of being monitored** by the company). 
 * **"Silent Office" (A Hollow Organization)**: While the company might appear lean and efficient on paper, the internal psychological infrastructure has collapsed. By forcing employees into a state of survivalist isolation, the company has traded long-term innovation and loyalty for short-term, fearful compliance.
 
+### Behavioral Patterns: Not Affected, Friends
+
+* **Defensive Upskilling and The "Luxury" Guilt**: There is a frantic, anxiety-driven rush to acquire "AI-native" skills, as these individuals view the 2025–2026 layoffs as a roadmap for their own eventual replacement. They often feel a sense of "undeserved safety," which manifests as overworking to prove they belong in the "safe" tier of the economy.
+* **Resource Hoarding and Networking Paralysis**: Like survivors within affected firms, they become less likely to share professional leads or industry secrets, treating their current position as a fortress to be defended at all costs. They may avoid reaching out to laid-off peers because they feel they have no "good news" to offer that wouldn't sound like bragging, leading to a breakdown in broader professional communities.
+* **Friends**: Friends often adopt an overly cautious tone, avoiding talk of their own work successes or stresses. This creates a shallow, walking-on-eggshells dynamic that further isolates the laid-off person. Friends might stop inviting the displaced person to events that cost money (dinners, trips) out of a misguided sense of "sensitivity" regarding the person's financial state. This results in the laid-off individual losing their social support system exactly when they need it most. Initially, friends offer a flurry of help (referrals, resume reviews). However, if the laid-off individual remains unemployed for months, friends often experience Empathy Fatigue, eventually "ghosting" the friend because they can no longer handle the emotional weight of the other person's stagnant situation. Seeing a close friend—who is just as talented and capable—get cut by an algorithmic selection process makes the "safe" friend feel vulnerable. To protect their own ego, they may subconsciously distance themselves to believe "this won't happen to me".
+* **Blocked Emotional Integration**: To accept layoff reality would be to accept that one's current stability is an illusion. Layoff data and general tendencies are viewed as an "interesting academic exercise" or "doom-scrolling" rather than a call to action. If one truly felt the weight of laid off person situation, one would have to confront the fact that they are just as vulnerable. By remaining "unconscious" to the threat, they maintain a psychological distance that keeps their own identity anxiety at bay. Humans are naturally poor at assessing exponential threats (like the current pace of AI-restructuring) until they hit a personal "inflection point" - it's a desperate, subconscious attempt to keep their own world from shattering before it absolutely has to.
+
 ### Behavioral Patterns: Everybody
 
 Isolated.
+
+## Current Conclusions and Open Questions
+
+!!! note
+
+    This may change with time on new data or thought arrival. Also, search for "counter questions" around this Doc (Section, All Docs) for more thought, contemplation and insight.
+
+**Current Conclusions:**
+
+1. Due to [disconnection](#vanishing-people---vicious-cycle-of-disconnection), no social action will follow, until desperate times hit a profound number of people. Up to that moment, a huge number of harm and victims will be in place. Social action will arrive in the form of riot and violence.
+
+**Open Questions:**
+
+1. What a heck can we do while being isolated and alone?
