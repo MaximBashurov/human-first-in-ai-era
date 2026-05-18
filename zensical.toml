@@ -95,6 +95,7 @@ nav = [
         { "Layoffs and Survival Cases" = [
             "survival/layoffs-and-survival-cases/index.md",
             "survival/layoffs-and-survival-cases/oracle-layoff-surf-case.md",
+            "survival/layoffs-and-survival-cases/nintendo-2014-case.md",
         ] },
         { "Support per Actor" = [
             "survival/support-per-actor/index.md",
