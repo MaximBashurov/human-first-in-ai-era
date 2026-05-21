@@ -28,7 +28,7 @@ If a logical analysis is applied to the [layoff cases](../../survival/layoffs-an
 **2. The Prisoner’s Dilemma**
 
 * If both companies cooperate and keep human workers, the consumer base remains strong.
-* If "Company A" stays human but "Company B" automates, Company B gains a massive cost advantage and crushes Company A.
+* If "Company A" stays human but "Company B" automates, Company B gains a massive cost advantage and crushes Company A. (see counter-thought and example [here](../../survival/layoffs-and-survival-cases/nintendo-2014-case.md#nintendo-2011-2014)).
 * Because neither can trust the other, both choose to automate, leading to a "deadweight loss" where the entire economy shrinks.
 
 **3. The "Red Queen’s Race"**
