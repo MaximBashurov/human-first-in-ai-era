@@ -105,6 +105,7 @@ nav = [
             "survival/support-per-country/index.md",
             "survival/support-per-country/usa.md",
         ] },
+        "survival/survival-vs-macroeconomy.md",
     ] },
     { "IO" = [
         "io/index.md",

@@ -4,6 +4,7 @@ None of the [interesting questions](../thought/index.md#how-these-docs-think-15-
 
 ## Topics
 
+- [Survival vs. Macroeconomy](survival-vs-macroeconomy.md)
 - [Layoffs and Survival Cases](layoffs-and-survival-cases/index.md)
 - [Support per Actor](support-per-actor/index.md)
 - [Support per Country](support-per-country/index.md)
