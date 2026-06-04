@@ -154,6 +154,49 @@ She is the founder of the [**Distributed AI Research (DAIR) Institute**](https:/
 * **Critique of AGI:** She views the pursuit of AGI as a "pseudo-religious" mission (The "Machine God" myth) used by CEOs to justify the centralization of power.
 * **TESCREAL:** Gebru (along with Émile Torres) critiques the **TESCREAL** bundle of ideologies (Longtermism, Effective Altruism, etc.), arguing they prioritize a hypothetical future "super-intelligence" over the real-world harms being done to marginalized people today.
 
+### "Don't Be Evil"
+
+According to some well grounded sociological research, there are the recurring, systemic, and psychological patterns that cause revolutionary, idealistic, and democratic movements to eventually transform into the very things they initially opposed:
+
+> ...any organization, regardless of how idealistic or democratic it is at its inception, will eventually be controlled by a small leadership class.
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/9N9BLQ7ZO_s?si=6KQsUz07r3l9ttJN" title='This video, titled "Why Every Revolution Eventually Becomes the System It Destroyed" by the channel Philosophy Coded, explores the recurring, systemic, and psychological patterns that cause revolutionary, idealistic, and democratic movements to eventually transform into the very things they initially opposed.' frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+In around 2000–2001, early in Google’s history, on Google office whiteboards and during the meetings about corporate values, you could see and hear a very interesting phrase: "Don't be evil." At the time, it was specifically intended to prevent the company from diluting search results with ads or sacrificing user trust for short-term profit.
+
+In 2004, Google founders Larry Page and Sergey Brin enshrined the phrase in their IPO "Founders' Letter," famously writing: 
+
+> "Don’t be evil. We believe strongly that in the long term, we will be better served—as shareholders and in all other ways—by a company that does good things for the world even if we forgo some short term gains."
+
+In 2015, Google underwent a major corporate restructuring, creating Alphabet Inc. as a parent company and shifted the tone: while "Don't be evil" remained in the code of conduct for the Google subsidiary, the parent company (Alphabet) moved toward the "Do the right thing" language. In May 2018, Google quietly revised its Code of Conduct to remove the phrase from the preface, where it had lived for nearly two decades.
+
+On May 19, 2026, at **Google I/O 2026** public event, among other things, Google introduced changes to its main product (search): 
+
+??? info "Google Search 2026 transformative features"
+
+    * **The input field** seamlessly handling text, voice, images, and video as a single continuous input stream. You can drop a video of a broken appliance into the search bar and ask "How do I fix this?" You can ask follow up questions.
+    * **Dynamic Dashboards**: When a user searches for a complex topic (e.g., "Planning a 3-week trip to Japan with a focus on photography and low-budget travel"), Search no longer just provides links to travel sites. It generates a custom dashboard featuring interactive maps, budget trackers, and photo-spot lists that you can directly manipulate.
+    **Custom Trackers**: You can ask Search to track specific entities (like the status of a package, the price trend of a specific laptop, or the progress of a legislative bill). Search creates a persistent, interactive tracker that appears in your interface, which updates in real-time as new information hits the web.
+    * **"Keep Me Updated" Feature**: You can now append "keep me updated" to any query. This activates an Information Agent that runs in the background. Instead of re-searching manually, the agent monitors the web for developments and delivers synthesized, personalized updates to your dashboard or notifications.
+    * **Reasoning Across the Web**: These agents do not just index; they reason. They can compare different sources, synthesize conflicting data, and summarize the core changes or essential information, significantly reducing the "link-clicking" burden on the user.
+    * **Contextual Commands**: The input field maintains context across the session. You can ask follow-up questions to the generated dashboard or tracker, and the search engine interprets these as commands to update the UI (e.g., "Add a row for train tickets to that budget tracker I just made").
+
+However, by transitioning Search into an environment where the AI synthesizes, extracts, and presents data directly—often without sending the user to the source—Google is effectively shifting from being a **gateway** to the web to becoming the **destination** itself: having their answer directly from the AI-generated interface, users have no reason to click through to the original creator - Google’s internal data shows that AI-generated responses (AI Overviews/AI Mode) have caused organic clicks to drop by over 60%.
+
+This threatens:
+
+* **Social Contract**: The "Google AdSense" model is effectively dying for informational content. There is currently no direct, industry-standard mechanism for "micro-payments" or "royalty sharing" from AI queries back to the original source. When an AI provides an answer based on a publisher's work, the publisher is effectively providing free labor to train the model, only to lose the visitor who would have paid the bills via ads.
+* **Open Web**: If Google does not eventually implement a revenue-sharing model that pays creators for AI-generated answers (akin to how Apple or Spotify pay for content), the "open" web will likely fracture into a collection of gated silos (publishers putting their content behind strict paywalls, choosing to break the "open web" index to protect their only asset: their content).
+* **Data Diversity**: Content creators are already beginning to notice that to rank well, they must write for the AI rather than for humans. This creates a feedback loop where the internet becomes increasingly uniform, shallow, and optimized for consumption by a machine, rather than connection between people.
+
+Google's current [response](https://blog.google/products-and-platforms/products/search/new-controls-website-owners/) to that is magnificently short-sighted: they are talking about adds appearing directly within the AI-generated response, and pushing advertisers to move away from simple keyword-based ads toward "AI-powered" campaigns. The only thought about content creators is private licensing deals with large publishers (most probably existing only because of legal pressure from those publishers' side), creating a "two-tier" internet: major publishers with legal departments get paid - smaller independent creators, bloggers, and niche experts are left with zero recourse.
+
+**Why is that short-sighted?** - the current approach creates tendencies for forming of **Fragmented Web** (with publishers behind paywalls and public with no access to diverse specialized information) and **Hollow Web** (content created to be "valued" for being "safe," "correct," and "consensus"). This leads in perspective to the model itself [degrading and collapsing](../thought-per-question/question-14.md#data-knowledge-limits) leaving us with broken Internet and then broken company that broke that Internet.
+
+It is worth reminding that exactly this type of short-sightedness was called "**evil**" in the phrase "Don't be evil" we mentioned in the beginning of this section.
+
 ## Current Conclusions and Open Questions
 
 !!! note
@@ -164,9 +207,10 @@ She is the founder of the [**Distributed AI Research (DAIR) Institute**](https:/
 
 1. Historically, Google provides high-utility tools (Search, Maps, Docs) for free to organize the world's information and build a massive user base and providing a **huge Public Value** by this - in AI era, they **continue to do so**.
 1. While obviously seeing the reality of humans being replaced by AI (with more of that in future as Google's vision), Google has **zero thought or talk** about how people should survive this (immediately, now) to see a "bright future."
+1. Trough years, Google transformed from innovative and idealistic startup to a huge powerful structure, [departing](#dont-be-evil) from public interest into the direction of self-preserving and concentration of power/profit. It still has legacy of providing public value, but risks to ruin itself and this public value.
 
 **Open Questions:**
 
-1. NA.
+1. Will Google together with [regulators](https://www.gov.uk/government/news/cma-secures-fairer-deal-for-publishers-and-improves-google-search-services-in-uk) be willing and able to implement a revenue-sharing model that fairly pays the content creators for their content being used in AI-generated answers?
 
 [^1]: If you dive into those "Principles" at the link, you will see not only principles themselves but also a lot of up-to-date or "progress" information on implementing these principles ("Responsible AI Progress Report" by year, and many sub-projects like "Responsible Generative AI toolkit", "People + AI Guidebook", etc.) saying clearly that at least Google pays a great attention to its public representation in that area.
